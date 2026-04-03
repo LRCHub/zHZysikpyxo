@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "大団円",
+  "base_artist": "sanetii",
+  "createdAt": "2026-04-03T03:41:18.653050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大団円",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/01_大団円_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大団円",
+      "artist": "Ningen Isu",
+      "has_synced": false,
+      "path": "select/02_大団円_Ningen_Isu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "大団円 (feat. ZORN) [BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/5]]\u001f「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_大団円_(feat._ZORN)_[BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大団円",
+      "artist": "sanetii",
+      "has_synced": false,
+      "path": "select/pl_01_大団円_sanetii.txt"
+    }
+  ]
+}
