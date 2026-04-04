@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "大団円",
   "base_artist": "sanetii",
-  "createdAt": "2026-04-03T03:41:18.653050Z",
+  "createdAt": "2026-04-04T04:25:53.377658Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "sanetii",
       "has_synced": false,
       "path": "select/pl_01_大団円_sanetii.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "大団円",
+      "artist": "sanetii",
+      "has_synced": false,
+      "path": "select/localdb_01_大団円_sanetii.txt",
+      "repo_name": "zHZysikpyxo"
     }
   ]
 }
